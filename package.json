@@ -1,0 +1,27 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2",
+    "yargs": "^17.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymKramar/goit-nodejs-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymKramar/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/MaksymKramar/goit-nodejs-hw-01#readme"
+}
